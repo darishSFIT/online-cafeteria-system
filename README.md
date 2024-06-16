@@ -1,4 +1,4 @@
-# Online Cafteria System
+# Online Cafteria System **(Incomplete Project)**
 ---
 #### Sem-3 Java Mini-Project using Database connectivity and JFrame
 
